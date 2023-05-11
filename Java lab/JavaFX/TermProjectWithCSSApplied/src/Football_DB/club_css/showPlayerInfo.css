@@ -1,0 +1,29 @@
+.root{
+    -fx-background-color: violet;
+}
+
+.table-view{
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+}
+
+.table-view:focused {
+    -fx-background-color: transparent;
+}
+
+.table-view .column-header{
+    -fx-background-color: aqua;
+}
+
+.button{
+    -fx-background-color: yellow;
+    -fx-font-weight: bold;
+    -fx-border-color: black;
+    -fx-border-radius: 3px;
+}
+
+.button:hover{
+    -fx-background-color: blue;
+    -fx-text-fill: gold;
+    -fx-cursor: hand;
+}
