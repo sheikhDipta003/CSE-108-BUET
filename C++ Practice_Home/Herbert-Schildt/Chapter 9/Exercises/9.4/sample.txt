@@ -1,0 +1,4 @@
+This is a random file.
+C++ file I/O is soo booriiing!
+But it is much better than C.
+Just create objects of classes and use necessary built-in methods.

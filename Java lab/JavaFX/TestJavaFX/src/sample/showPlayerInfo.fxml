@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+
+<?import javafx.collections.FXCollections?>
+<?import java.lang.String?>
+<TableView fx:controller="sample.ShowPlayersController" fx:id="tablePlayersInfo" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="452.0" prefWidth="836.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/16">
+  <columns>
+    <TableColumn fx:id="showName" prefWidth="138.40001833438873" text="Name"/>
+    <TableColumn fx:id="showCountry" prefWidth="109.60000610351562" text="Country" />
+      <TableColumn fx:id="showAge" prefWidth="75.19998168945312" text="Age" />
+      <TableColumn fx:id="showHeight" prefWidth="74.4000244140625" text="Height" />
+      <TableColumn fx:id="showClub" prefWidth="139.20004272460938" text="Club" />
+      <TableColumn fx:id="showPosition" prefWidth="101.5999755859375" text="Position" />
+      <TableColumn fx:id="showNumber" prefWidth="71.199951171875" text="Number" />
+      <TableColumn fx:id="showSalary" prefWidth="128.0" text="Salary" />
+  </columns>
+</TableView>
