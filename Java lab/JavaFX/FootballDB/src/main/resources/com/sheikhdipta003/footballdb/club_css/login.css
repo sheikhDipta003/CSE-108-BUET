@@ -1,0 +1,32 @@
+.root{
+    -fx-background-color: mediumspringgreen;
+}
+
+.label{
+    -fx-font-family: SansSerif;
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+}
+
+#title{
+    -fx-font-family: "BankGothic Md BT";
+    -fx-font-weight: bold;
+    -fx-font-size: 20px;
+}
+
+.text-field{
+    -fx-border-color: darkblue;
+}
+
+#submitBtnLogin{
+    -fx-background-color: orange;
+    -fx-font-weight: bold;
+    -fx-border-color: black;
+    -fx-border-radius: 3px;
+}
+
+#submitBtnLogin:hover{
+    -fx-background-color: blue;
+    -fx-text-fill: gold;
+    -fx-cursor: hand;
+}
