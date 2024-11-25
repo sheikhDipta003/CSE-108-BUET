@@ -90,8 +90,7 @@ C:.
 ```
 ## Demo
 
-Insert gif or link to demo
-
+https://github.com/user-attachments/assets/57b3a1fd-f417-4cb6-b58b-093a734239bb
 
 ## Author
 
@@ -102,7 +101,6 @@ Insert gif or link to demo
 
  - [Introductory class lecture on javafx](https://drive.google.com/file/d/1ZZDDhQ09lbbvnm7mnmCtslU4kdIzDRX0/view?usp=sharing)
  - [JavaFx Tutorial For Beginners 1 - Introduction To JavaFx](https://youtu.be/9YrmON6nlEw?si=5YZaQsfVie4x2rv7)
-
 
 
 ## Fixing runtime exceptions
